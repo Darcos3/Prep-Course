@@ -1,0 +1,18 @@
+EXPLICACIÓN DE CONCEPTOS
+
+- ¿Que es una variable?
+Una variable es una palabra reservada en los lenguajes de programacion que sirve para guardar un valor, ese valor puede cambiar con el pasar del tiempo.
+En javascript se declara una variable con var y un nombre, por ejemplo var a, o var b.
+
+- ¿Que es un string?
+Un string es una cadena de texto, son palabras escritas entre comillas, las cuales no se pueden operar sino solo leer
+
+- ¿Que son funciones?
+Son operaciones de codigo que realizan una instrucción, por ejmplo una suma o una resta. Pueden retornar algun valor en específico o solo mostrar información. 
+Cuando a una función se le pasa argumentos, esos argumentos son numeros o variables a las que se les haya asignado un valor y con estos argumentos se pueden realizar operaciones dentro de la función.
+
+- ¿Que son las declaraciones?
+Las declaraciones son instrucciones que se finalizan con punto y salvo las que van escritas en la misma linea. Por ejemplo console.log(); o return; o break;
+
+- ¿Que son valores boleanos?
+Los valores boleanos son valores que devuelven un valor verdadero o falso, true o false, 1 o 0. 
