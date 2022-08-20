@@ -1,0 +1,13 @@
+EXPLICACIÓN DE CONCEPTOS
+
+- ¿Que es for?
+For es un bucle o un ciclo, que permite realizar una o varias instrucciones por n cantidad de veces.
+
+- ¿Que es &&?
+Es un operador de lógica que quiere decir AND o Y en español, se usa para validar dos expresiones, por ejemplos a y b son mayores a 0.
+
+- ¿Que es un ||?
+Es un operador de logica que quiere decir OR o O en español, permite validar dos expresiones, por ejemplo a == 6 o b == 6.
+
+- ¿Que es un !?
+Es un operador de lógica, se usa para negar una expresion, quiere decir NOT o NO en español. Se usa por ejemplo !true o !false
