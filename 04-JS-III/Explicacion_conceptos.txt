@@ -1,0 +1,2 @@
+- ¿Que son arrays?
+Arrays son un conjunto de datos que pueden tener elementos de diferente tipo.
